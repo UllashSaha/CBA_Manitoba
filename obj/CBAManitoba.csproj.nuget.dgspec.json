@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CBA_project\\online-bookstore\\CBAManitoba.csproj": {}
+    "D:\\CBA_Manitoba\\CBAManitoba.csproj": {}
   },
   "projects": {
-    "D:\\CBA_project\\online-bookstore\\CBAManitoba.csproj": {
+    "D:\\CBA_Manitoba\\CBAManitoba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CBA_project\\online-bookstore\\CBAManitoba.csproj",
+        "projectUniqueName": "D:\\CBA_Manitoba\\CBAManitoba.csproj",
         "projectName": "CBAManitoba",
-        "projectPath": "D:\\CBA_project\\online-bookstore\\CBAManitoba.csproj",
+        "projectPath": "D:\\CBA_Manitoba\\CBAManitoba.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\CBA_project\\online-bookstore\\obj\\",
+        "outputPath": "D:\\CBA_Manitoba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

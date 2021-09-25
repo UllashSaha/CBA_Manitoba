@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZNrDLkkVVtBH3qtulk7T7ESkptWGpRwI8Db1IthA5bGl8Kjg7gKiyt6toLD04wSHzTy4+yjJdHGN8ECnkMX3g==",
+  "dgSpecHash": "JkY7Zam9DJ8DY30JuRdErWgjKL1j4mg1gAJ5LuC+Fa5b+WqyN19x3xzBnvKPG5v6ZRcj+iQr9GZNphSZb1Wf/A==",
   "success": true,
-  "projectFilePath": "D:\\CBA_project\\online-bookstore\\CBAManitoba.csproj",
+  "projectFilePath": "D:\\CBA_Manitoba\\CBAManitoba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\jquery\\1.7.0\\jquery.1.7.0.nupkg.sha512",
