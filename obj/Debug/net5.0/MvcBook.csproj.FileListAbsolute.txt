@@ -1,0 +1,410 @@
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.csprojAssemblyReference.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.AssemblyInfoInputs.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.AssemblyInfo.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.csproj.CoreCompileInputs.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.MvcApplicationPartsAssemblyInfo.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.MvcApplicationPartsAssemblyInfo.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.RazorAssemblyInfo.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.RazorAssemblyInfo.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\staticwebassets\MvcBook.StaticWebAssets.Manifest.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\staticwebassets\MvcBook.StaticWebAssets.xml
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\scopedcss\bundle\MvcBook.styles.css
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.TagHelpers.input.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.TagHelpers.output.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.RazorCoreGenerate.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.RazorTargetAssemblyInfo.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.RazorTargetAssemblyInfo.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.dll
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\ref\MvcBook.dll
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\appsettings.Development.json
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\appsettings.json
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.StaticWebAssets.xml
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.exe
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.deps.json
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.runtimeconfig.json
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.runtimeconfig.dev.json
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ref\MvcBook.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.Views.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\MvcBook.Views.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Humanizer.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.Views.pdb
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.csproj.CopyComplete
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\MvcBook.genruntimeconfig.cache
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Create.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Details.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Edit.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Index.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\AddToCart.cshtml.g.cs
+D:\.net Projects\online-bookstore\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Create.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Delete.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Details.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Edit.cshtml.g.cs
+D:\.net Projects\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\appsettings.Development.json
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\appsettings.json
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.StaticWebAssets.xml
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.exe
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.deps.json
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.runtimeconfig.json
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.runtimeconfig.dev.json
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ref\MvcBook.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.Views.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\MvcBook.Views.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Humanizer.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CBA_project\online-bookstore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.csprojAssemblyReference.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.AssemblyInfoInputs.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.AssemblyInfo.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.csproj.CoreCompileInputs.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.MvcApplicationPartsAssemblyInfo.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.MvcApplicationPartsAssemblyInfo.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.RazorAssemblyInfo.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.RazorAssemblyInfo.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\staticwebassets\MvcBook.StaticWebAssets.Manifest.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\staticwebassets\MvcBook.StaticWebAssets.xml
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\scopedcss\bundle\MvcBook.styles.css
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.TagHelpers.input.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.TagHelpers.output.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.RazorCoreGenerate.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Create.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Delete.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Create.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Delete.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Details.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Edit.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\MyCart\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\AddToCart.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Create.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Details.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Edit.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\UserBooks\Index.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.RazorTargetAssemblyInfo.cache
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.RazorTargetAssemblyInfo.cs
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.Views.pdb
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.csproj.CopyComplete
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.dll
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\ref\MvcBook.dll
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.pdb
+D:\CBA_project\online-bookstore\obj\Debug\net5.0\MvcBook.genruntimeconfig.cache
