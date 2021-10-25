@@ -63,13 +63,16 @@
                             <a class="nav-link" href="/ExecutiveMembers">Executive Members</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="blog.html">Events</a>
+                            <a class="nav-link" href="blog.html">News</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/Contact">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <a class="btn btn-primary ml-lg-3" href="/Identity/Account/Login">Login / Register</a>
+                            <a class="nav-link" href="/Identity/Account/Login">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-primary ml-lg-3" href="/Identity/Account/Register">Register</a>
                         </li>
                     </ul>
                 </div> <!-- .navbar-collapse -->
@@ -89,7 +92,7 @@
 
 
     <div class="bg-light">
-        <div class="page-section py-3 mt-md-n5 custom-index">
+        <!--<div class="page-section py-3 mt-md-n5 custom-index">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-4 py-3 py-md-0">
@@ -118,7 +121,7 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- .page-section -->
+        </div>--> <!-- .page-section -->
 
         <div class="page-section pb-0">
             <div class="container">
@@ -126,7 +129,7 @@
                     <div class="col-lg-6 py-3 wow fadeInUp">
                         <h1>Welcome to CBA <br> Manitoba</h1>
                         <p class="text-grey mb-4">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Accusantium aperiam earum ipsa eius, inventore nemo labore eaque porro consequatur ex aspernatur. Explicabo, excepturi accusantium! Placeat voluptates esse ut optio facilis!</p>
-                        <a href="about.html" class="btn btn-primary">Learn More</a>
+                        <a href="/About" class="btn btn-primary">Learn More</a>
                     </div>
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="400ms">
                         <div class="img-place custom-img-1">
@@ -141,9 +144,24 @@
 
     <div class="page-section">
         <div class="container">
-            <h1 class="text-center mb-5 wow fadeInUp">Current Executive Members</h1>
+            <h1 class="text-center mb-5 wow fadeInUp">Executive Members</h1>
 
             <div class="owl-carousel wow fadeInUp" id="doctorSlideshow">
+                <div class="item">
+                    <div class="card-doctor">
+                        <div class="header">
+                            <img src="~/img/cbaexecutives/president.JPG" alt="">
+                            <div class="meta">
+                                <a href="#"><span class="mai-call"></span></a>
+                                <a href="#"><span class="mai-logo-whatsapp"></span></a>
+                            </div>
+                        </div>
+                        <div class="body">
+                            <p class="text-xl mb-0">Sharif Islam</p>
+                            <span class="text-sm text-grey">President</span>
+                        </div>
+                    </div>
+                </div>
                 <div class="item">
                     <div class="card-doctor">
                         <div class="header">
@@ -310,7 +328,7 @@
 
     <div class="page-section">
         <div class="container">
-            <h1 class="text-center wow fadeInUp">Get in Touch</h1>
+            <h1 class="text-center wow fadeInUp">Contact Us</h1>
 
             <form class="contact-form mt-5">
                 <div class="row mb-3">
@@ -357,12 +375,10 @@
         <div class="container">
             <div class="row px-md-3">
                 <div class="col-sm-6 col-lg-3 py-3">
-                    <h5>Company</h5>
+                    <h5>CBA Manitoba</h5>
                     <ul class="footer-menu">
                         <li><a href="#">About Us</a></li>
-                        <li><a href="#">Career</a></li>
-                        <li><a href="#">Editorial Team</a></li>
-                        <li><a href="#">Protection</a></li>
+                        
                     </ul>
                 </div>
                 <div class="col-sm-6 col-lg-3 py-3">
@@ -370,16 +386,14 @@
                     <ul class="footer-menu">
                         <li><a href="#">Terms & Condition</a></li>
                         <li><a href="#">Privacy</a></li>
-                        <li><a href="#">Advertise</a></li>
-                        <li><a href="#">Join as Doctors</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-6 col-lg-3 py-3">
                     <h5>Our partner</h5>
                     <ul class="footer-menu">
-                        <li><a href="#">One-Fitness</a></li>
+                        @*<li><a href="#">One-Fitness</a></li>
                         <li><a href="#">One-Drugs</a></li>
-                        <li><a href="#">One-Live</a></li>
+                        <li><a href="#">One-Live</a></li>*@
                     </ul>
                 </div>
                 <div class="col-sm-6 col-lg-3 py-3">

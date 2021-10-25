@@ -432,3 +432,5 @@ D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.dll
 D:\CBA_Manitoba\obj\Debug\net5.0\ref\CBAManitoba.dll
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.pdb
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.genruntimeconfig.cache
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayoutAdmin.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
