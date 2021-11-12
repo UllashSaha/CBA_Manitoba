@@ -88,7 +88,7 @@ namespace MvcBook.Areas.Identity.Pages.Account
             public string Province { get; set; }
 
 
-            [Required]
+            /*[Required]
             [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
             [DataType(DataType.Password)]
             [Display(Name = "Password")]
@@ -97,7 +97,7 @@ namespace MvcBook.Areas.Identity.Pages.Account
             [DataType(DataType.Password)]
             [Display(Name = "Confirm password")]
             [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-            public string ConfirmPassword { get; set; }
+            public string ConfirmPassword { get; set; }*/
         }
 
         public async Task OnGetAsync(string returnUrl = null)
@@ -115,7 +115,7 @@ namespace MvcBook.Areas.Identity.Pages.Account
                 var user = new CBAUser { UserName = Input.Email, Id = Input.Email, Email = Input.Email, FirstName=Input.FirstName, LastName=Input.LastName, PhoneNumber = Input.ContactNumber, Address = Input.Address,
                                          City = Input.City, PostalCode = Input.PostalCode, Province = Input.Province   
                 };
-                var result = await _userManager.CreateAsync(user, Input.Password);
+                var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");

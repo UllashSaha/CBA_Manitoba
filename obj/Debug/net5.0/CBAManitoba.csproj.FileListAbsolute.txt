@@ -364,7 +364,6 @@ D:\CBA_Manitoba\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\CBA_Manitoba\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\CBA_Manitoba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\CBA_Manitoba\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.csprojAssemblyReference.cache
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.GeneratedMSBuildEditorConfig.editorconfig
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.AssemblyInfoInputs.cache
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.AssemblyInfo.cs
@@ -382,9 +381,9 @@ D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.RazorCoreGenerate.cache
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
-D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayoutAdmin.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
@@ -401,6 +400,7 @@ D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Books\Details.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Books\Edit.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Contact\index.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\ExecutiveMembers2018\index.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\ExecutiveMembers\index.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
@@ -415,6 +415,7 @@ D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\MyCart\Edit.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\MyCart\Index.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\UserBooks\AddToCart.cshtml.g.cs
@@ -432,5 +433,3 @@ D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.dll
 D:\CBA_Manitoba\obj\Debug\net5.0\ref\CBAManitoba.dll
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.pdb
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.genruntimeconfig.cache
-D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_AuthLayoutAdmin.cshtml.g.cs
-D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
