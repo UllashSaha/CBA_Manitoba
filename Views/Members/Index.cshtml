@@ -1,0 +1,96 @@
+﻿@model MvcBook.Models.CBAUsersViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "/views/shared/_Layout.cshtml";
+
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="copyright" content="CBA Manitoba, /About">
+
+    <title>CBA Manitoba</title>
+
+    <link rel="stylesheet" href="~/assets/css/maicons.css">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="~/assets/vendor/owl-carousel/css/owl.carousel.css">
+    <link rel="stylesheet" href="~/assets/vendor/animate/animate.css">
+    <link rel="stylesheet" href="~/assets/css/theme.css">
+</head>
+<body>
+
+
+
+    @{
+        ViewData["Title"] = "Index";
+    }
+
+    <h1></h1>
+
+    <p>
+    <form asp-controller="Members" asp-action="Index" method="get">
+        <p>
+            Year: <select asp-for="ApplicationYear" asp-items="Model.Years">
+                <option value="">Select</option>
+            </select>
+            First Name: <input type="text" asp-for="SearchString" />
+            Last Name: <input type="text" asp-for="SearchStringLastName" />
+            Email: <input type="text" asp-for="SearchStringEmail" />
+
+            <input type="submit" value="Search" />
+        </p>
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    First Name
+                </th>
+                <th>
+                   Last Name
+                </th>
+                  <th>
+                   Application Date
+                </th>
+                <th>
+                    Membership Status
+                    @* @Html.DisplayNameFor(model => model.CBAUser[0].MembershipStatus)*@
+                </th>
+                <th>
+                    Action
+                </th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CBAUsers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                     <td>
+                        @Html.DisplayFor(modelItem => item.CreateDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MembershipStatus)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                        <a asp-action="Approve" asp-route-id="@item.Id">Approve</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>

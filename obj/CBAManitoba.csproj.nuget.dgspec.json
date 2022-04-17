@@ -10,14 +10,11 @@
         "projectUniqueName": "D:\\CBA_Manitoba\\CBAManitoba.csproj",
         "projectName": "CBAManitoba",
         "projectPath": "D:\\CBA_Manitoba\\CBAManitoba.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Ullash.Saha\\.nuget\\packages\\",
         "outputPath": "D:\\CBA_Manitoba\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ullash.Saha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,6 +66,10 @@
               "target": "Package",
               "version": "[5.0.9, )"
             },
+            "Microsoft.OData.Edm": {
+              "target": "Package",
+              "version": "[7.10.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -92,6 +93,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

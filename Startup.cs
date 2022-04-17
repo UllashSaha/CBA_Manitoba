@@ -28,11 +28,7 @@ namespace MvcBook
             services.AddRazorPages();
            
             services.AddDbContext<MvcBookContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("MvcBookContext")));
-
-
-
-          
+            options.UseSqlServer(Configuration.GetConnectionString("MvcBookContext")));      
 
         }
 

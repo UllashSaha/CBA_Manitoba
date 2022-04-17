@@ -15,9 +15,9 @@ namespace CBAManitoba.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.2");
+                .HasAnnotation("ProductVersion", "5.0.9")
+                .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
@@ -57,7 +57,7 @@ namespace CBAManitoba.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
-                        .UseIdentityColumn();
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("ClaimType")
                         .HasColumnType("nvarchar(max)");
@@ -81,7 +81,7 @@ namespace CBAManitoba.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int")
-                        .UseIdentityColumn();
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<string>("ClaimType")
                         .HasColumnType("nvarchar(max)");
@@ -163,6 +163,7 @@ namespace CBAManitoba.Migrations
             modelBuilder.Entity("MvcBook.Areas.Identity.Data.CBAUser", b =>
                 {
                     b.Property<string>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("AccessFailedCount")
@@ -180,6 +181,9 @@ namespace CBAManitoba.Migrations
 
                     b.Property<string>("ContactNumber")
                         .HasColumnType("nvarchar(100)");
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("Email")
                         .HasMaxLength(256)
@@ -199,6 +203,9 @@ namespace CBAManitoba.Migrations
 
                     b.Property<DateTimeOffset?>("LockoutEnd")
                         .HasColumnType("datetimeoffset");
+
+                    b.Property<string>("MembershipStatus")
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("NormalizedEmail")
                         .HasMaxLength(256)
@@ -244,56 +251,6 @@ namespace CBAManitoba.Migrations
                         .HasFilter("[NormalizedUserName] IS NOT NULL");
 
                     b.ToTable("AspNetUsers");
-                });
-
-            modelBuilder.Entity("MvcBook.Models.Book", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<string>("Author")
-                        .HasMaxLength(60)
-                        .HasColumnType("nvarchar(60)");
-
-                    b.Property<string>("Genre")
-                        .IsRequired()
-                        .HasMaxLength(30)
-                        .HasColumnType("nvarchar(30)");
-
-                    b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
-
-                    b.Property<DateTime>("PublishDate")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Rating")
-                        .HasMaxLength(5)
-                        .HasColumnType("nvarchar(5)");
-
-                    b.Property<string>("Title")
-                        .HasMaxLength(60)
-                        .HasColumnType("nvarchar(60)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Book");
-                });
-
-            modelBuilder.Entity("MvcBook.Models.BookMvcBookUser", b =>
-                {
-                    b.Property<int>("BookId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("MvcBookUserId")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.HasKey("BookId", "MvcBookUserId");
-
-                    b.HasIndex("MvcBookUserId");
-
-                    b.ToTable("BookMvcBookUser");
                 });
 
             modelBuilder.Entity("MvcBook.Models.Role", b =>
@@ -352,35 +309,6 @@ namespace CBAManitoba.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("MvcBook.Models.BookMvcBookUser", b =>
-                {
-                    b.HasOne("MvcBook.Models.Book", "Book")
-                        .WithMany("BookMvcBookUser")
-                        .HasForeignKey("BookId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("MvcBook.Areas.Identity.Data.CBAUser", "MvcBookUser")
-                        .WithMany("BookMvcBookUser")
-                        .HasForeignKey("MvcBookUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Book");
-
-                    b.Navigation("MvcBookUser");
-                });
-
-            modelBuilder.Entity("MvcBook.Areas.Identity.Data.CBAUser", b =>
-                {
-                    b.Navigation("BookMvcBookUser");
-                });
-
-            modelBuilder.Entity("MvcBook.Models.Book", b =>
-                {
-                    b.Navigation("BookMvcBookUser");
                 });
 #pragma warning restore 612, 618
         }

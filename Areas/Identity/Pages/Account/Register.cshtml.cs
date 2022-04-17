@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
@@ -112,8 +113,9 @@ namespace MvcBook.Areas.Identity.Pages.Account
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new CBAUser { UserName = Input.Email, Id = Input.Email, Email = Input.Email, FirstName=Input.FirstName, LastName=Input.LastName, PhoneNumber = Input.ContactNumber, Address = Input.Address,
-                                         City = Input.City, PostalCode = Input.PostalCode, Province = Input.Province   
+                var user = new CBAUser { UserName = Input.Email, Email = Input.Email, FirstName=Input.FirstName, LastName=Input.LastName, PhoneNumber = Input.ContactNumber, Address = Input.Address,
+                                         City = Input.City, PostalCode = Input.PostalCode, Province = Input.Province, CreateDate = DateTime.Parse(DateTime.UtcNow.Date.ToString("MM-dd-yyyy")),
+                    MembershipStatus = "Pending"   
                 };
                 var result = await _userManager.CreateAsync(user);
                 if (result.Succeeded)
