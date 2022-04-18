@@ -426,3 +426,6 @@ D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.Views.pdb
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.csproj.CopyComplete
 D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.genruntimeconfig.cache
 D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Members\Approve.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\CBAManitoba.csproj.AssemblyReference.cache
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNormalPages.cshtml.g.cs
+D:\CBA_Manitoba\obj\Debug\net5.0\Razor\Views\ContactPresident\index.cshtml.g.cs
